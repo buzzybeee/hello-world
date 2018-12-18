@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+
+hi humans
+mishika here, i like nothing
